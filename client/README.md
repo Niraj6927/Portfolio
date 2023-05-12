@@ -63,7 +63,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/a
 
 ### Deployment
 
-This section has moved here: [https://644c02e0d0f46902884bc6e4--mellow-churros-d439f6.netlify.app/)
+This section has moved here: [https://645e95d922a1e132d2ab9481--steady-concha-4f690b.netlify.app/)
 
 ### `npm run build` fails to minify
 
